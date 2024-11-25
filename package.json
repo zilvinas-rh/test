@@ -7,13 +7,14 @@
   },
   "dependencies": {
     "@playwright/test": "1.48.2",
-    "@synthetixio/synpress": "^4.0.3"
+    "@synthetixio/synpress": "^4.0.3",
+    "@types/cypress": "^1.1.6"
   },
   "devDependencies": {
     "@metamask/test-dapp": "8.1.0",
     "@synthetixio/synpress-tsconfig": "0.0.4",
     "@types/node": "20.11.17",
-    "cypress": "13.14.0",
+    "cypress": "^13.16.0",
     "typescript": "5.3.3"
   }
 }
